@@ -1,1 +1,4 @@
 -  Here are our diagrams and lofi sketches.
+Class diagram [UMLClassDiagram.pdf](https://github.com/FaizahKolapo/ENSE374-Team-Lore/files/7437379/UMLClassDiagram.pdf)
+Sequencce diagram [SequenceDiagram .pdf](https://github.com/FaizahKolapo/ENSE374-Team-Lore/files/7437383/SequenceDiagram.pdf)
+Data Flow diagram[DataFlowDiagram.pdf](https://github.com/FaizahKolapo/ENSE374-Team-Lore/files/7437390/DataFlowDiagram.pdf)
