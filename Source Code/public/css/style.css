@@ -101,6 +101,17 @@ button#searchApmnt:hover {
   color: black;
 }
 
-h2#carouselText {
-  color: solid white;
+/*h2#carouselText1 {
+  color: solid black;
+  background-color: black;
+  border-radius: 10px;
+  margin-right: 80%;
+  text-align: center;
+  opacity: 0.5;
+}*/
+
+img#opacQ,
+img#opacB,
+img#opacS {
+  opacity: 0.5;
 }
