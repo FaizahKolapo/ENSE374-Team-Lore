@@ -115,3 +115,14 @@ img#opacB,
 img#opacS {
   opacity: 0.5;
 }
+
+h1#homeText {
+  color: white;
+  background-color: black;
+  opacity: 0.6;
+  border-radius: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-top: 5px;
+}
