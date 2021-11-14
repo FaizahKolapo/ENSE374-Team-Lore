@@ -302,25 +302,20 @@ main#about {
   margin-left: 10%;
   height: 270px;
   margin-top: -5%;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
-    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
-    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
 
 #card2 {
   margin-left: 40%;
   height: 270px;
   margin-top: -21%;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
-    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
-    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
 
 #card3 {
   margin-left: 70%;
   height: 270px;
   margin-top: -21%;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
-    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
-    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
+
