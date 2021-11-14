@@ -210,12 +210,6 @@ button#searchApartmtList:hover {
   text-align: center;
 }
 
-#image1 {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-}
-
 .img2 {
   width: 400px;
   height: 400px;
@@ -224,12 +218,6 @@ button#searchApartmtList:hover {
   margin-left: 65%;
   margin-top: -35%;
   text-align: center;
-}
-
-#image2 {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
 }
 
 .img3 {
@@ -242,12 +230,6 @@ button#searchApartmtList:hover {
   text-align: center;
 }
 
-#image3 {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-}
-
 .img4 {
   width: 400px;
   height: 400px;
@@ -256,12 +238,6 @@ button#searchApartmtList:hover {
   margin-left: 35%;
   margin-top: -35%;
   text-align: center;
-}
-
-#image4 {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
 }
 
 .img5 {
@@ -274,12 +250,6 @@ button#searchApartmtList:hover {
   text-align: center;
 }
 
-#image5 {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-}
-
 .img6 {
   width: 400px;
   height: 400px;
@@ -290,6 +260,11 @@ button#searchApartmtList:hover {
   text-align: center;
 }
 
+#image1,
+#image2,
+#image3,
+#image4,
+#image5,
 #image6 {
   width: 120px;
   height: 120px;
