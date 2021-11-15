@@ -84,14 +84,6 @@ h5 {
   color: grey;
 }
 
-button#searchApmnt {
-  background-color: rgb(4, 122, 224);
-  color: white;
-}
-button#searchApmnt:hover {
-  color: black;
-}
-
 #seeReviews {
   background-color: rgb(4, 122, 224);
   color: white;
@@ -142,12 +134,6 @@ div.box {
   float: right;
   margin-top: -3.4%;
   margin-right: 10%;
-  background-color: rgb(4, 122, 224);
-  color: white;
-}
-
-#addAptmt:hover {
-  color: black;
 }
 
 #inputFieldAptmt {
@@ -156,13 +142,6 @@ div.box {
 #searchApartmtList {
   margin-right: 50%;
   margin-left: 10%;
-}
-button#searchApartmtList {
-  background-color: rgb(4, 122, 224);
-  color: white;
-}
-button#searchApartmtList:hover {
-  color: black;
 }
 
 .filters {
@@ -317,5 +296,83 @@ main#about {
   height: 270px;
   margin-top: -21%;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+/*reviews page*/
+#leaveReview {
+  margin-bottom: -40%;
+  margin-left: 70%;
+}
+
+#leaveReviewStar {
+  color: yellow;
+  fill: yellow;
+}
+
+div.review1 {
+  width: 500px;
+  height: 150px;
+  background: rgb(240, 241, 242);
+  margin-left: 5%;
+  padding-right: 10px;
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  overflow: scroll;
+}
+
+div.review2 {
+  width: 500px;
+  height: 150px;
+  background: rgb(240, 241, 242);
+  margin-left: 5%;
+  padding-right: 10px;
+  border-radius: 15px;
+  margin-top: 5%;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  overflow: scroll;
+}
+
+#userReview1 {
+  margin-left: 3%;
+  padding-top: 3%;
+}
+
+strong {
+  font-size: 20px;
+}
+span#aptmtName {
+  font-size: 10px;
+}
+#starFill {
+  float: right;
+  color: rgb(227, 227, 73);
+  margin-top: -3%;
+}
+
+#starFill4 {
+  float: right;
+  color: rgb(227, 227, 73);
+  margin-top: -50%;
+}
+
+#reviewContent {
+  font-size: 13px;
+}
+
+.modal-header {
+  background: darkgrey;
+  color: #fff;
+}
+
+.checked {
+  color: rgb(227, 227, 73);
+}
+
+#floatStar {
+  float: right;
+}
+
+#reviewFilter {
+  margin-bottom: -5%;
 }
 
