@@ -343,17 +343,6 @@ strong {
 span#aptmtName {
   font-size: 10px;
 }
-#starFill {
-  float: right;
-  color: rgb(227, 227, 73);
-  margin-top: -3%;
-}
-
-#starFill4 {
-  float: right;
-  color: rgb(227, 227, 73);
-  margin-top: -50%;
-}
 
 #reviewContent {
   font-size: 13px;
