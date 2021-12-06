@@ -19,7 +19,7 @@ Open another terminal and run mongo by typing "mongod", enter and then "mongo". 
 
 
 
-After installing the dependencies, specify the port in .env file and start the server by typing "PORT=80"
+After installing the dependencies, specify the port in .env file by typing "PORT=80" and start the server 
 
 ```sh
 npm i
