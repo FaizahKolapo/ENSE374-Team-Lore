@@ -11,11 +11,19 @@
 
 requires Node.js (v14+) & MongoDB(with no authentication) to run.
 
-Install the dependencies, specify the port in .env file and start the server.
+Download the application folder "RateMyApartments"
+
+Open a terminal and change your directory to the "RateMyApartments" directory
+
+Open another terminal and run mongo by typing "mongod", enter and then "mongo". This way, mongo is automatically running in the background.
+
+
+
+After installing the dependencies, specify the port in .env file and start the server.
 
 ```sh
 npm i
-node app
+node app.js
 ```
 
 
@@ -23,7 +31,7 @@ Verify the deployment by navigating to your server address in
 your preferred browser.
 
 ```sh
-localhost:<port>
+localhost:80
 ```
 
 ## License
